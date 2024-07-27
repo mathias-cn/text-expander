@@ -3,6 +3,7 @@ This was a challenge from [The Ultimate React Course](https://www.udemy.com/cour
 
 A simple text expander re-usable component that receives a text and turns it into a collapsible text with "Show more" and "Show less" buttons. It can also receive other props to customize it.
 
+* Live Demo: [Click-Here!](https://text-expander-one.vercel.app/)
 ## Component Features
 * Default call
 ```typescript

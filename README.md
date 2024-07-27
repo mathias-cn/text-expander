@@ -1,5 +1,5 @@
 # Text Expander Component | React + TS
-This was a challenge from (The Ultimate React Course)[https://www.udemy.com/course/the-ultimate-react-course/]
+This was a challenge from [The Ultimate React Course](https://www.udemy.com/course/the-ultimate-react-course/)
 
 A simple text expander re-usable component that receives a text and turns it into a collapsible text with "Show more" and "Show less" buttons. It can also receive other props to customize it.
 
